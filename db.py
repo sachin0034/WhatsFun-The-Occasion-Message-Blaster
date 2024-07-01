@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 # MongoDB connection
 mongo_client = MongoClient('')
-db = mongo_client['guest_database']
+db = mongo_client['guest_data']
 collection = db['guests']
 
 # Drop existing collection (if any)
