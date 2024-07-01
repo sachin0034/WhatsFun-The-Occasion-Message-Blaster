@@ -14,3 +14,7 @@ __pycache__/
 
 # Ignore system files
 .DS_Store
+
+# Ignore the .env file
+.env
+
