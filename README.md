@@ -83,11 +83,6 @@ For any questions or support, please contact:
 
 Contributions are welcome! Please fork this repository and submit pull requests for any features or bug fixes.
 
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
